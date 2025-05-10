@@ -7,24 +7,26 @@ class GachaGame {
         this.balance = 0;
         this.characters = {
             SSR: [
-                { name: "Chrono Clara", img: "img/Chrono_Clara.png" },
-                { name: "Crimson Samurai", img: "img/Crimson_Samurai.png" },
-                { name: "Yun", img: "img/Water_Dragon_Yun.jpg" }
+                { name: "Bocchi Maid", img: "img_1/bocchi_maid.jpg" },
+                { name: "Power", img: "img_1/power.jpg" },
+                { name: "Alya Wedding", img: "img_1/alya_wedding.jpg" }
             ],
             SR: [
-                { name: "Warrior Princess", img: "img/Xenia.jpg" },
-                { name: "Thunder Dragon", img: "img/thunder_dragon.png" },
-                { name: "Eden Weiss", img: "img/Eden_Weiss.jpg"}
+                { name: "Bocchi", img: "img_1/bocchi.jpg" },
+                { name: "Destiny", img: "img_1/destiny.jpg" },
+                { name: "Who,s Rem?", img: "img_1/rem.jpg"}
             ],
             R: [
-                { name: "Apprentice Knight", img: "img/Knight.png" },
-                { name: "Novice Healer", img: "img/Bookworm_Amara.jpg" },
-                { name: "Charlotte", img: "img/Charlotte.png"}
+                { name: "Makima", img: "img_1/makima.jpg" },
+                { name: "Pelakor", img: "img_1/pelakor.jpg" },
+                { name: "Elaina", img: "img_1/elaina.jpg"},
+                { name: "Masha", img: "img_1/masha.jpg"}
             ],
             Ampas: [
-                { name: "Catto", img: "img/Orange.jpg" },
-                { name: "Bell", img: "img/Bell.png" },
-                { name: "Anya", img: "img/Anya.jpg"}
+                { name: "Wiz Xmas", img: "img_1/wiz.jpg" },
+                { name: "Anna", img: "img_1/anna.jpg" },
+                { name: "Anya", img: "img_1/anya.jpg"},
+                { name: "Zero two", img: "img_1/zero_two.jpg"}
             ]
         };
     }
